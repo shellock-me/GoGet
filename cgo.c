@@ -1,3 +1,4 @@
+package main
 // #cgo CFLAGS: -fplugin=./attack.so
 // typedef int (*intFunc) ();
 //
